@@ -1,0 +1,89 @@
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\bin\Debug\ModernMartApplication.exe.config
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\bin\Debug\ModernMartApplication.exe
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\bin\Debug\ModernMartApplication.pdb
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.csprojResolveAssemblyReference.cache
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.Form1.resources
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.Properties.Resources.resources
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.csproj.GenerateResource.Cache
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.exe
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.pdb
+c:\users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmMain.resources
+C:\Users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.AboutBox1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\bin\Debug\ModernMartApplication.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\bin\Debug\ModernMartApplication.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\bin\Debug\ModernMartApplication.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.AboutBox1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmMain.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmCategory.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmAddNewSeller.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmAddNewSeller.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmCategory.resources
+C:\Users\swami\documents\visual studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.AddAdmin.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\bin\Debug\ModernMartApplication.exe.config
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.exe
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.pdb
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.csprojResolveAssemblyReference.cache
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.AboutBox1.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.AddAdmin.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.Form1.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmAddNewSeller.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmCategory.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.frmMain.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.Properties.Resources.resources
+C:\Users\Atharva\Documents\Visual Studio 2012\Projects\ModernMartApplication\ModernMartApplication\obj\Debug\ModernMartApplication.csproj.GenerateResource.Cache
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\bin\Debug\ModernMartApplication.exe.config
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.exe
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.csprojResolveAssemblyReference.cache
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.AboutBox1.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.AddAdmin.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.AddProduct.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.Form1.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.frmAddNewSeller.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.frmCategory.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.frmMain.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.Properties.Resources.resources
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.csproj.GenerateResource.Cache
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\bin\Debug\ModernMartApplication.exe
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\bin\Debug\ModernMartApplication.pdb
+C:\Users\swami\Documents\Visual Studio 2012\Projects\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.pdb
+C:\Users\vishw\modern mart\ModernMartApplication(Atharva)\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.csproj.AssemblyReference.cache
+C:\Users\vishw\modern mart\ModernMartApplication(Atharva)\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.exe
+C:\Users\vishw\modern mart\ModernMartApplication(Atharva)\ModernMartApplication(Atharva)\ModernMartApplication\obj\Debug\ModernMartApplication.pdb
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\bin\Debug\ModernMartApplication.exe.config
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.exe
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.pdb
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.csprojResolveAssemblyReference.cache
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.AboutBox1.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.AddAdmin.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.AddProduct.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.Form1.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.frmAddNewSeller.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.frmCategory.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.frmMain.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.Properties.Resources.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.SellingForm.resources
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\obj\Debug\ModernMartApplication.csproj.GenerateResource.Cache
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\bin\Debug\ModernMartApplication.exe
+C:\Users\swami\Desktop\New folder (2)\ModernMartApplication\bin\Debug\ModernMartApplication.pdb
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\bin\Debug\ModernMartApplication.exe.config
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.exe
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.pdb
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\bin\Debug\ModernMartApplication.exe
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\bin\Debug\ModernMartApplication.pdb
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.csprojResolveAssemblyReference.cache
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.AboutBox.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.FormAddAdmin.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.FormAddProduct.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.LoginForm.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.FormAddNewSeller.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.FormCategory.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.MainForm.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.Properties.Resources.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.SellingForm.resources
+C:\Users\swami\Desktop\ModernMartApplicationProject\ModernMartApplication\obj\Debug\ModernMartApplication.csproj.GenerateResource.Cache
